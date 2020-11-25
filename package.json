@@ -3,11 +3,11 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "homepage": "https://zhivotnkoalex.github.io/barbershop",
+    "homepage": "https://taisiia-filikova.github.io/final-team-project-HTML-CSS",
     "scripts": {
         "dev": "parcel src/*.html",
         "build": "parcel build src/*.html",
-        "predeploy": "npm run build -- --public-url=/barbershop/",
+        "predeploy": "npm run build -- --public-url=/final-team-project-HTML-CSS/",
         "deploy": "gh-pages -d dist"
     },
     "repository": {
